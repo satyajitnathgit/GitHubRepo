@@ -1,6 +1,5 @@
 -- Dialect: PostgreSQL 15+
--- Dialect: PostgreSQL 15+
--- Dialect: PostgreSQL 15+
+--Titanic
 -- Purpose: Demonstrate a large, complex SQL script (~500+ lines) with many CTEs,
 --          nested subqueries (with and without CTEs), inline views, lateral joins,
 --          multi-column joins, complex WHERE clauses, aggregates, window functions,
